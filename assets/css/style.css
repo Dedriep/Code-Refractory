@@ -68,7 +68,7 @@ p {
     
 }
 
-.services img{
+.img{
     float: left;
     margin-right: 25px;
     max-height: 200px;
@@ -90,7 +90,8 @@ p {
     float: right;
     margin-right: 25px;
     max-height: 200px;
-    clear: right;
+    width: 30%;
+    clear: left
 }
 
 
